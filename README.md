@@ -1,6 +1,10 @@
 # TwitterCapstone
 Ruby on Rails Capstone Project
 
+### Description
+
+Twitter-like page built with RoR
+
 ### Built With
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -8,6 +12,7 @@ Ruby on Rails Capstone Project
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 * Ruby on Rails
+
 
 ## Contact
 
